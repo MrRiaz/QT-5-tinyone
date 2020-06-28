@@ -8,11 +8,17 @@
     font-size: 16px;
 }
 
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
 
 .container{
-    width: 90%;
+    width: 960px;
     margin: auto;
 }
+
+/* header section start ========== */
 
 .logo{
     width: 20%;
@@ -45,3 +51,92 @@ nav ul li a{
     display: block;
 }
 
+/* header section end ========== */
+
+
+
+
+
+
+
+
+/* content section start ========== */
+
+.content-section{}
+.content-left{}
+.content-left h1{}
+.content-left h3{}
+.content-left p{}
+
+.content-left ul{}
+.content-left ul li{}
+.content-left ul li a{}
+
+.content-right{}
+.content-right img{}
+
+.bullet{}
+.bullet ul{}
+.bullet ul li{}
+.bullet ul li a{}
+
+/* content section end ========== */
+
+
+
+
+
+
+/* features section start ========== */
+
+.features-section{}
+.features-section .heading{}
+.features-section .heading h1{}
+.features-section .heading h3{}
+
+
+.features{}
+.features .features-icon{}
+.features .features-icon img{}
+
+.features .features-conten{}
+.features .features-conten h1{}
+.features .features-conten p{}
+
+
+/* features section end ========== */
+
+
+
+
+
+
+
+/* footer section start ========== */
+
+.footer-section{}
+.subsciption-section{}
+.subsciption-section h1{}
+.subsciption-section p{}
+.subsciption-section form{}
+form input{}
+form input[type="submit"]{}
+
+
+.social-list{}
+.social-list ul{}
+.social-list ul li{}
+.social-list ul li a{}
+.social-list ul li a img{}
+
+.address{}
+.address address{}
+
+
+.footer-col{}
+.footer-col ul{}
+.footer-col ul li{}
+.footer-col ul li a{}
+
+
+/* footer section start ========== */
